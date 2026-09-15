@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 jou jou jou tässä on vain jotakin tekstiä en keksinyt enempää joo tähän muutos
+=======
+muuto tähän jou jou jou tässä on vain jotakin tekstiä en keksinyt enempää joo
+>>>>>>> Stashed changes
